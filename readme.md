@@ -81,7 +81,6 @@
 - [Alternatives to MEE6](https://www.alternativestomee6.com/) - A list of Discord bots that can be used in place of MEE6.
 - [All Discord Permissions](https://discordapi.com/permissions) - A list of all the permissions available for users.
 - [Discord Tools](https://discordtools.io/) - A collection of Discord tools for power users to analyse your guilds, get information on snowflakes, or even see the current status of Discord. Get the number of guilds your account is in, see how many servers you own, moderate, and are partnered with, and show lists of all servers in the categories above as well as a list of all servers.
-- [Discord Toolbox](https://distools.app/) - Discord tools such as Discord status updates, experiments info, and servers/snowflakes lookup.
 - [Discord Lookup](https://discordlookup.com/) - Easy to use tool to lookup users, guilds, invites, and get information about your guild list with stats, server experiment rollouts, features, and permissions view.
 - [Discord Recap](https://discord-recap.com/) - A tool to explore your Discord data package - originally inspired by Androz2091's Discord Data Package Explorer, but with a lot more details.
 - [Discord Data Package Explorer](https://github.com/Androz2091/discord-data-package-explorer) - Explore your Discord data easily.
