@@ -1,6 +1,6 @@
 <h1 align="center">
     
-<img width="600" src="https://raw.githubusercontent.com/sapphiredevs/awesome-discord/main/banner.png" alt="Awesome" href='https://discordapp.com'>
+<img width="600" src="https://raw.githubusercontent.com/sapphiredevs/awesome-discord/master/banner.png" alt="Awesome" href='https://discordapp.com'>
 	<br>
 </h1>
 
@@ -104,6 +104,14 @@
 ## 💬 Modifications
 
 **[Back To Top](#-contents)**
+
+## <img src="https://www.redditinc.com/assets/images/site/reddit-logo.png" height="22"> Subreddits
+
+**[Back To Top](#-contents)**
+
+- [/r/discordapp](https://www.reddit.com/r/discordapp) - The official Discord subreddit.
+- [/r/discord_bots](https://www.reddit.com/r/Discord_Bots) - A subreddit dedicated to discord bots.
+- [/r/discordservers](https://www.reddit.com/r/discordservers) - A subreddit dedicated to discord servers.
 
 ## 📖 Official Resources
 
